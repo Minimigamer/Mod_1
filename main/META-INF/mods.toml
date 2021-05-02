@@ -1,0 +1,15 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="firstmod" 
+version="${file.jarVersion}" 
+displayName="First Mod" 
+logoFile="examplemod.png" 
+credits="LuckyLuke for fixing my problem xD" 
+authors="Minimigamer" 
+description='''
+
+This is the first mod i've ever coded!
+
+'''

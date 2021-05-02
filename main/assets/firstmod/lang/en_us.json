@@ -1,0 +1,9 @@
+{
+	"itemGroup.tab": "Mini's Tab'",
+	"item.firstmod.test_item": "Test",
+	"item.firstmod.special_item": "Super Axe",
+	"block.firstmod.first_block": "First Block",
+	"tooltip2.special_item.not_shifted": "\u00A78Press \u00A7eLSHIFT \u00A78for more information",
+	"tooltip1.special_item.shifted_blocks": "\u00A7bMined Blocks: \u00A78",
+	"tooltip1.special_item.shifted_damage": "\u00A7cExtra Damage: \u00A78"
+}
